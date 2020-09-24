@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50521119523",
+    "firebase_url": "https://creedit-90a25.firebaseio.com",
+    "project_id": "creedit-90a25",
+    "storage_bucket": "creedit-90a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50521119523:android:a85322979683c4d6d70a96",
+        "android_client_info": {
+          "package_name": "com.example.creedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50521119523-upg62u7n7qqt3gi8h87hmkhj82fu7pg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFXaVeDrHj-JDPGV-rl_duvJ_XwL5EDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50521119523-upg62u7n7qqt3gi8h87hmkhj82fu7pg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
